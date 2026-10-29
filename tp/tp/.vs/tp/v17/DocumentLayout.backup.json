@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2630014\\source\\repos\\tp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9553517A-A194-4F20-8EBD-11AE5E978D5E}|tp2\\tp2.vcxproj|C:\\Users\\2630014\\source\\repos\\tp\\tp2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9553517A-A194-4F20-8EBD-11AE5E978D5E}|tp2\\tp2.vcxproj|solutionrelative:tp2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480120BD-5B9C-4809-8D55-2DB28B77C5D0}|tp\\tp.vcxproj|C:\\Users\\2630014\\source\\repos\\tp\\tp\\tp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480120BD-5B9C-4809-8D55-2DB28B77C5D0}|tp\\tp.vcxproj|solutionrelative:tp\\tp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\2630014\\source\\repos\\tp\\tp2\\main.cpp",
+              "RelativeDocumentMoniker": "tp2\\main.cpp",
+              "ToolTip": "C:\\Users\\2630014\\source\\repos\\tp\\tp2\\main.cpp",
+              "RelativeToolTip": "tp2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-29T19:02:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tp1.cpp",
+              "DocumentMoniker": "C:\\Users\\2630014\\source\\repos\\tp\\tp\\tp1.cpp",
+              "RelativeDocumentMoniker": "tp\\tp1.cpp",
+              "ToolTip": "C:\\Users\\2630014\\source\\repos\\tp\\tp\\tp1.cpp",
+              "RelativeToolTip": "tp\\tp1.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAI8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T18:30:32.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
